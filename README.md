@@ -1,4 +1,4 @@
-h1 align="center">Hi, I'm Lyka</h1>
+<h1 align="center">Hi, I'm Lyka</h1>
 
 <p align="center">
   <b>Computer Science Student | Web Developer in Progress</b>
@@ -74,4 +74,3 @@ To continuously improve my programming skills, learn new technologies, and creat
 <p align="center">
   Keep learning. Keep coding. Keep improving.
 </p>
-Ito lahat
