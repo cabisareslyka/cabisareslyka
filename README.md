@@ -1,16 +1,28 @@
-## Hi there 👋
+👋 Hi, I'm Lyka!
 
-<!--
-**cabisareslyka/cabisareslyka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 About Me
+Hi! I'm a Computer Science student interested in web development, programming, and technology. I enjoy learning new things and creating simple systems that can help make tasks easier, faster, and more organized.
 
-Here are some ideas to get you started:
+## 💻 My Features & Skills
+- 🌐 HTML & CSS
+- ⚙️ Basic JavaScript
+- 🗄️ Database Management
+- 💻 Web-Based System Development
+- 📊 Student Profiling
+- 📝 Grade Management
+- 📢 Announcement Management
+- 🔧 Basic Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 My Project
+### 🎓 Digital Student Profiling, Grade, and Announcement Management System
+A web-based system designed to manage student information, academic grades, and school announcements in an organized and efficient way.
+
+## 🎯 My Goal
+To continuously improve my programming skills and create useful systems that can help students and schools.
+
+## 📚 Currently Learning
+- Web Development
+- Programming
+- Database Management
+- System Development
+Learning, coding, and improving one step at a time.
