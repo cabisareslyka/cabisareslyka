@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="profile.jpg" width="150" height="150" style="border-radius:50%;">
+  <img src="./IMG_20260815_230920.jpg" width="150" height="150">
 </p>
 
 <h2 align="center">Computer Science Student</h2>
@@ -81,9 +81,9 @@ The system aims to make school processes easier through digital student records,
 
 I am interested in using Agile in system development because it allows a project to be developed and improved through continuous planning, development, testing, and feedback.
 
-**Agile Process:**
+### Agile Process
 
-`Planning` → `Designing` → `Development` → `Testing` → `Feedback` → `Improvement`
+Planning → Designing → Development → Testing → Feedback → Improvement
 
 ---
 
