@@ -103,14 +103,6 @@ To continuously improve my programming skills, learn new technologies, and creat
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cabisareslyka&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
-</p>
-
----
-
 <p align="center">
   <b>Thank you for visiting my profile!</b>
 </p>
@@ -119,6 +111,3 @@ To continuously improve my programming skills, learn new technologies, and creat
   Keep learning. Keep coding. Keep improving.
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,100:00A8E8&height=100&section=footer" width="100%"/>
-</p>
