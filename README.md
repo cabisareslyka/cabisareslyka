@@ -100,9 +100,26 @@ Planning → Designing → Development → Testing → Feedback → Improvement
 ## My Goal
 
 To continuously improve my programming skills, learn new technologies, and create useful systems that can help students, schools, and organizations.
+---
+## My Journey
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Learn-0077B6?style=for-the-badge" />
+  →
+  <img src="https://img.shields.io/badge/Practice-1E90FF?style=for-the-badge" />
+  →
+  <img src="https://img.shields.io/badge/Create-00A8E8?style=for-the-badge" />
+  →
+  <img src="https://img.shields.io/badge/Improve-005B96?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <i>Learn → Practice → Create → Improve</i>
+</p>
 
 ---
 
+## My Quote
 <p align="center">
   <b>Thank you for visiting my profile!</b>
 </p>
