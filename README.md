@@ -121,6 +121,9 @@ To continuously improve my programming skills, learn new technologies, and creat
 
 ## My Quote
 <p align="center">
+  <i>"Every line of code is a step toward becoming better."</i>
+</p>
+<p align="center">
   <b>Thank you for visiting my profile!</b>
 </p>
 
