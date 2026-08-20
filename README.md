@@ -68,13 +68,10 @@ I enjoy learning new skills, exploring different technologies, and creating simp
 ---
 ## Projects
 
-### Digital Student Profiling, Grade, and Announcement Management System
+### Project 1 – Personal Portfolio Website
 
-A web-based school management system designed to organize student information, academic grades, and school announcements in one digital platform.
+A personal website that introduces my background, hobbies, skills, and projects. This project demonstrates my basic knowledge of HTML, CSS, and web development.
 
-The project aims to make student record management, grade management, and information dissemination more organized and efficient.
-
-**Project Repository:** [GitHub Repository](PASTE-YOUR-PROJECT-REPOSITORY-LINK-HERE)
 
 ## Agile Methodology
 
