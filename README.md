@@ -66,16 +66,15 @@ I enjoy learning new skills, exploring different technologies, and creating simp
 - Digital Innovation
 
 ---
-
-## My Project
+## Projects
 
 ### Digital Student Profiling, Grade, and Announcement Management System
 
-A web-based system designed to manage student information, academic grades, and school announcements in a more organized and efficient way.
+A web-based school management system designed to organize student information, academic grades, and school announcements in one digital platform.
 
-The system aims to make school processes easier through digital student records, grade management, and an online announcement feature.
+The project aims to make student record management, grade management, and information dissemination more organized and efficient.
 
----
+**Project Repository:** [GitHub Repository](PASTE-YOUR-PROJECT-REPOSITORY-LINK-HERE)
 
 ## Agile Methodology
 
